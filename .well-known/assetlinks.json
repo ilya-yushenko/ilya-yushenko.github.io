@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.tac.woodproof",
+    "sha256_cert_fingerprints":
+    ["5F:2C:42:EB:E3:16:D9:FE:01:15:0A:32:09:D2:ED:F6:5C:DD:3C:13:DE:3E:3A:62:7B:E8:F3:04:4C:2D:5E:7B"]
+  }
+}]
